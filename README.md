@@ -1,5 +1,5 @@
 # Flexible_Multi_Party_QKE
-Qiskit Simulation of "A Multi-party quantum key exchange protocol based on flexible switching between three-particle GHZ and Bell states "(Including Source Code and Experimental Results)"
+Using Qiskit Simulation of "A Multi-party quantum key exchange protocol based on flexible switching between three-particle GHZ and Bell states "(Including Source Code and Experimental Results)"
 
 Running Flexible_Multi-party_QKE.py to obtain the simulation results.
 
